@@ -27,7 +27,7 @@
     "hoist-non-react-statics": "^3.3.2",
     "jwt-decode": "^2.2.0",
     "lodash.debounce": "^4.0.8",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "rc-slider": "^8.7.1",
     "react": "^16.9.0",
     "react-apollo-notifications": "^1.0.0",
